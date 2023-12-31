@@ -1,5 +1,5 @@
 # Swift-Design-Patterns
-A List of design patterns in swift with example code when i get to it... this a learning work in progress...
+A list of design patterns in swift with example code when i get to it... this a learning work in progress...
 
 **Singleton Pattern:**
 Ensures a class has only one instance and provides a global point of access to it.

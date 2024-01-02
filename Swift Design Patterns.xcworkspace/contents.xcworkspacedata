@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Factory Method Pattern/../README.md">
+   </FileRef>
+   <FileRef
+      location = "group:Factory Method Pattern/../Singleton Pattern.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Factory Method Pattern/../Factory Method Pattern.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Observer Pattern.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Builder/Builder/../../Builder.swift">
+   </FileRef>
+   <FileRef
+      location = "group:Factory Method Pattern/../LICENSE">
+   </FileRef>
+   <FileRef
+      location = "group:Singleton/Singleton.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Factory Method Pattern/Factory Method Pattern.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Observer/Observer.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Builder/Builder.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Prototype/Prototype.xcodeproj">
+   </FileRef>
+</Workspace>

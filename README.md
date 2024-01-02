@@ -78,6 +78,12 @@ Decouples the sender and receiver of a command by allowing multiple objects to h
 **Dependency Injection Patter:**
 Supplies a dependent object (a client) with the objects it depends on (a service) rather than allowing it to create them. This promotes loose coupling and easier testing.
 
+**Chain of Command Pattern:**
+Similar to the Chain of Responsibility, it passes a request along a chain of command objects, each handling the request or passing it to the next handler.
+
+**Command Dispatcher Pattern:**
+Manages the execution of commands, handling their registration, execution, and potentially undo operations.
+
 **Data Access Object (DAO) Pattern:**
 Provides an abstract interface to some type of database or other persistence mechanism, allowing different implementations or database types.
 
